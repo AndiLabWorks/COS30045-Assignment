@@ -1,0 +1,16 @@
+pollutant,region,value
+CO,Northern Peninsular,0.74
+CO,Central Peninsular,1.29
+CO,Eastern Peninsular,0.49
+CO,Southern Peninsular,0.63
+CO,Malaysian Borneo,0.61
+NOx,Northern Peninsular,0.031
+NOx,Central Peninsular,0.084
+NOx,Eastern Peninsular,0.013
+NOx,Southern Peninsular,0.025
+NOx,Malaysian Borneo,0.017
+PM10,Northern Peninsular,44.75
+PM10,Central Peninsular,56.78
+PM10,Eastern Peninsular,43.37
+PM10,Southern Peninsular,47.95
+PM10,Malaysian Borneo,42.97
