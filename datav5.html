@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Malaysia Air Pollutant Map</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body class="bg-gray-100">
+    <div class="bg-white">
+      <header class="absolute inset-x-0 top-0 z-50">
+        <nav
+          class="flex items-center justify-between p-6 lg:px-8"
+          aria-label="Global"
+        >
+          <div class="hidden lg:flex lg:gap-x-12">
+            <a href="home.html" class="text-sm/6 font-semibold text-gray-900"
+              >Home</a
+            >
+            <a href="datav1.html" class="text-sm/6 font-semibold text-gray-900"
+              >Regions with Highest Air Pollution in Malaysia</a
+            >
+            <a href="datav2.html" class="text-sm/6 font-semibold text-gray-900"
+              >Seasonal Trends in Malaysian Air Quality</a
+            >
+            <a href="datav3.html" class="text-sm/6 font-semibold text-gray-900"
+              >Changes in PM2.5 Levels Over Time</a
+            >
+            <a href="datav4.html" class="text-sm/6 font-semibold text-gray-900"
+              >Regions with Improving or Declining Air Quality</a
+            >
+            <a href="datav5.html" class="text-sm/6 font-semibold text-gray-900"
+              >Monthly Mean Concentrations of Each Pollutant</a
+            >
+          </div>
+        </nav>
+      </header>
+
+      <div class="relative isolate px-6 pt-14 lg:px-8">
+        <div class="mx-auto max-w-7xl py-12">
+          <div class="text-center mb-6">
+            <h1 class="text-3xl font-semibold text-gray-800 mb-4">
+              Monthly Mean Concentrations of Each Pollutant
+            </h1>
+            <!-- Buttons -->
+            <div class="flex justify-center gap-4">
+              <button
+                id="btn-co"
+                class="px-6 py-2 bg-blue-500 text-white rounded-lg shadow hover:bg-blue-600"
+              >
+                CO
+              </button>
+              <button
+                id="btn-nox"
+                class="px-6 py-2 bg-green-500 text-white rounded-lg shadow hover:bg-green-600"
+              >
+                NOx
+              </button>
+              <button
+                id="btn-pm10"
+                class="px-6 py-2 bg-purple-500 text-white rounded-lg shadow hover:bg-purple-600"
+              >
+                PM10
+              </button>
+            </div>
+          </div>
+          <!-- Map Container -->
+          <!-- Map Container -->
+          <div
+            id="map"
+            class="w-full h-[500px] sm:h-[600px] lg:h-[700px] bg-gray-200 rounded-md border border-gray-300"
+          >
+            <!-- Map will be appended here -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="map.js"></script>
+  </body>
+</html>

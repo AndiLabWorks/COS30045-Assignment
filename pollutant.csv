@@ -1,0 +1,61 @@
+region,location,pollutant,value
+Northern Peninsular,Perai,CO,0.96
+Northern Peninsular,Perai,NOx,0.051
+Northern Peninsular,Perai,PM10,57.75
+Northern Peninsular,Kangar,CO,0.7
+Northern Peninsular,Kangar,NOx,0.021
+Northern Peninsular,Kangar,PM10,41.52
+Northern Peninsular,USM,CO,0.66
+Northern Peninsular,USM,NOx,0.027
+Northern Peninsular,USM,PM10,38.51
+Northern Peninsular,Ipoh,CO,0.64
+Northern Peninsular,Ipoh,NOx,0.026
+Northern Peninsular,Ipoh,PM10,48.45
+Central Peninsular,Port Klang,CO,1.3
+Central Peninsular,Port Klang,NOx,0.072
+Central Peninsular,Port Klang,PM10,68.79
+Central Peninsular,Petaling Jaya,CO,1.64
+Central Peninsular,Petaling Jaya,NOx,0.125
+Central Peninsular,Petaling Jaya,PM10,53.87
+Central Peninsular,Shah Alam,CO,1
+Central Peninsular,Shah Alam,NOx,0.063
+Central Peninsular,Shah Alam,PM10,53.61
+Central Peninsular,Cheras,CO,1.04
+Central Peninsular,Cheras,NOx,0.065
+Central Peninsular,Cheras,PM10,52.25
+Eastern Peninsular,Jerantut,CO,0.36
+Eastern Peninsular,Jerantut,NOx,0.005
+Eastern Peninsular,Jerantut,PM10,38.13
+Eastern Peninsular,Kuantan,CO,0.40
+Eastern Peninsular,Kuantan,NOx,0.013
+Eastern Peninsular,Kuantan,PM10,33.89
+Eastern Peninsular,Kota Bahru,CO,0.78
+Eastern Peninsular,Kota Bahru,NOx,0.02
+Eastern Peninsular,Kota Bahru,PM10,41.46
+Eastern Peninsular,Kuala Terengganu,CO,	0.55
+Eastern Peninsular,Kuala Terengganu,NOx,0.014
+Eastern Peninsular,Kuala Terengganu,PM10,50.09
+Southern Peninsular,Melaka,CO,0.66
+Southern Peninsular,Melaka,NOx,0.028
+Southern Peninsular,Melaka,PM10,66.9
+Southern Peninsular,Muar,CO,0.67
+Southern Peninsular,Muar,NOx,0.022
+Southern Peninsular,Muar,PM10,50.75
+Southern Peninsular,Seremban,CO,0.62
+Southern Peninsular,Seremban,NOx,0.021
+Southern Peninsular,Seremban,PM10,45.35
+Southern Peninsular,Kota Tinggi,CO,0.38
+Southern Peninsular,Kota Tinggi,NOx,0.01
+Southern Peninsular,Kota Tinggi,PM10,46.8
+Malaysian Borneo,Kuching,CO,0.58
+Malaysian Borneo,Kuching,NOx,0.02
+Malaysian Borneo,Kuching,PM10,40.85
+Malaysian Borneo,Bintulu,CO,0.45
+Malaysian Borneo,Bintulu,NOx,0.017
+Malaysian Borneo,Bintulu,PM10,46.88
+Malaysian Borneo,Miri,CO,0.98
+Malaysian Borneo,Miri,NOx,0.015
+Malaysian Borneo,Miri,PM10,39.63
+Malaysian Borneo,Kota Kinabalu,CO,0.46
+Malaysian Borneo,Kota Kinabalu,NOx,0.014
+Malaysian Borneo,Kota Kinabalu,PM10,39.19
